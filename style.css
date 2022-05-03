@@ -1,0 +1,380 @@
+body {
+  margin: 0;
+}
+
+img {
+  height: 660px;
+  width: 1260px;
+  margin: 0px 0px 0px 0px;
+}
+
+.title1 {
+  font-size:80px;
+  width:auto;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  margin: 10px;
+  top: 252px;
+  left: 500px;
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.subhead {
+  font-size: 25px;
+  width: 200px;
+  font-weight: 300;
+  text-align: center;
+  margin: 0 auto;
+  position: absolute;
+  top: 370px;
+  left: 532px;
+font-family: 'Teko', sans-serif;
+}
+
+.text0{
+  font-size: 25px;
+  width: 400px;
+  font-weight: 300;
+  text-align: center;
+  margin: 0 auto;
+  position: absolute;
+  top: 780px;
+  left: 460px;
+  font-family: 'Teko', sans-serif;
+}
+.text1{
+ font-size: 25px;
+ width: 400px;
+ font-weight: 300;
+ text-align: center;
+ margin: 0 auto;
+ position: absolute;
+ top: 1100px;
+ left: 700px;
+font-family: 'Teko', sans-serif;
+}
+.cartoon0{
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  text-align: center;
+  left: 215px;
+  top: 90px;
+}
+
+
+.button0 {
+  border: none;
+  color: blue;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor:pointer;
+  position: absolute;
+  top: 110px;
+  left: 892px;
+  padding: 0px;
+  height: 0px;
+  width: 0px;
+
+}
+
+.button0:hover {
+  color: #008CBA;
+}
+
+.button1 {
+  border: none;
+  color: #003638;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  position: absolute;
+  top: 110px;
+  left: 1002px;
+  padding: 0px;
+  height: 0px;
+  width: 100px;
+}
+
+.button1:hover {
+  color: #008CBA;
+}
+
+.button2 {
+  border: none;
+  color: #003638;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  position: absolute;
+  top: 110px;
+  left: 1150px;
+  padding: 0px;
+  width: 0px;
+  height: 0px;
+}
+
+.button2:hover {
+  color: #008CBA;
+}
+.cartoon{
+  padding: 10px;
+  margin: 0px;
+  height: 75px;
+  width: 75px;
+  left: 630px;
+  text-align: center;
+  position: absolute;
+}
+.rectangle{
+  width: 400px;
+  height: 100px;
+}
+.one{
+ top: 900px;
+ height: 50px;
+ width: 600px;
+ border-color: black;
+ background-color: #8DDAD4 ;
+ left: 380px;
+ margin: 0px;
+ text-align: center;
+ position: absolute;
+}
+.cartoon1
+{
+  padding: 10px;
+  margin: 0px;
+  height: 75px;
+  width: 75px;
+  left: 300px;
+  text-align: center;
+  position: absolute;
+  top: 1090px;
+}
+
+.dot {
+  height: 5px;
+  width: 5px;
+  background-color: #bbb;
+  border-radius: 100%;
+  display: inline-block;
+  position: absolute;
+  text-align: center;
+  top: 1080px;
+  left: 392.5px;
+}
+.dot1{
+  height: 7.5px;
+  width: 7.5px;
+  background-color: #bbb;
+  border-radius: 100%;
+  display: inline-block;
+  position: absolute;
+  text-align: center;
+  top: 1090px;
+  left: 380px;
+}
+.figma{
+  height: 7.5px;
+  width: 7.5px;
+  border-color: black;
+  display: inline-block;
+  position: absolute;
+  text-align: center;
+  top: 1070px;
+  left: 405px;
+}
+
+.text2{
+ font-size: 25px;
+ width: 400px;
+ font-weight: 300;
+ text-align: center;
+ margin: 0 auto;
+ position: absolute;
+ top: 1050px;
+ left: 700px;
+ font-family: 'Teko', sans-serif;
+ color: #4FADA6;
+}
+.text3{
+ font-size: 25px;
+ font-weight: 300;
+ text-align: center;
+ margin: 0 auto;
+ position: absolute;
+ top: 1260px;
+ left: 275px;
+ font-family: 'Teko', sans-serif;
+ color: #4FADA6;
+}
+.text4{
+  font-size: 25px;
+width: 350px;
+font-weight: 300;
+text-align: center;
+margin: 0 auto;
+position: absolute;
+top: 1310px;
+left: 200px;
+font-family: 'Teko', sans-serif;
+
+}
+.cartoon2{
+  padding: 10px;
+  margin: 0px;
+  height: 75px;
+  width: 75px;
+  left: 900px;
+  text-align: center;
+  position: absolute;
+  top: 1300px;
+}
+.dot2{
+  height: 7.5px;
+  width: 7.5px;
+  background-color: #bbb;
+  border-radius: 100%;
+  display: inline-block;
+  position: absolute;
+  text-align: center;
+  top: 1300px;
+  left: 910px;
+}
+.dot3{
+  height: 5px;
+  width: 5px;
+  background-color: #bbb;
+  border-radius: 100%;
+  display: inline-block;
+  position: absolute;
+  text-align: center;
+  top: 1295px;
+  left: 897.5px;
+}
+.htmllogo{
+  height: 7.5px;
+  width: 7.5px;
+  border-color: black;
+  display: inline-block;
+  position: absolute;
+  text-align: center;
+  top: 1285px;
+  left: 880px;
+}
+.dot4{
+  height: 7.5px;
+  width: 7.5px;
+  background-color: #bbb;
+  border-radius: 100%;
+  display: inline-block;
+  position: absolute;
+  text-align: center;
+  top: 1340px;
+  left: 910px;
+}
+.dot5{
+  height: 5px;
+  width: 5px;
+  background-color: #bbb;
+  border-radius: 100%;
+  display: inline-block;
+  position: absolute;
+  text-align: center;
+  top: 1340px;
+  left: 897.5px;
+}
+.csslogo{
+height: 7.5px;
+width: 7.5px;
+border-color: black;
+
+position: absolute;
+text-align: center;
+top: 1340px;
+left: 880px;
+}
+
+.one1{
+ top: 1450px;
+ height: 40px;
+ width: 600px;
+ border-color: black;
+ background-color: #8DDAD4 ;
+ left: 380px;
+ margin: 0px;
+ text-align: center;
+ position: absolute;
+}
+.text5{
+  font-size: 25px;
+width: 400px;
+font-weight: 300;
+text-align: center;
+margin: 0 auto;
+position: absolute;
+top: 1550px;
+left: 500px;
+font-family: 'Teko', sans-serif;
+}
+.one2{
+ top: 1650px;
+ height: 30px;
+ width: 200px;
+ border-color: black;
+ background-color: #8DDAD4 ;
+ left: 600px;
+ margin: 0px;
+ text-align: center;
+ position: absolute;
+}
+
+.one3{
+  top: 1750px;
+  height: 150px;
+  width: 1260px;
+  background-color: #8DDAD4;
+  left: 0px;
+  text-align: center;
+  position: absolute;
+}
+.media{
+  top: 1770px;
+  width: 900px;
+  left: 200px;
+  text-align: center;
+  position: absolute;
+  word-spacing: 4.5cm;
+}
+.rights{
+  top: 1880px;
+  text-align: center;
+  position: absolute;
+  left: 630px;
+}
+.design{
+  top: 480px;
+  left: 350px;
+  position: absolute;
+}
+.design1{
+  top: 480px;
+  left: 800px;
+  position: absolute;
+}
